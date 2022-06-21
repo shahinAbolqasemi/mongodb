@@ -1,0 +1,38 @@
+const webhook_data = [
+    {
+        _id: "60b462e709d1e242f96ab7fc",
+        name: "webhook_support",
+        description: "webhook_support description",
+        agent_id: "org",
+        url: "http://isdev:8061/api/services/app/Botava/CustomerDidntGetTheAnswerWebhook",
+        headers: [],
+        is_active: true,
+    },
+    {
+        _id: "60b4632509d1e242f96ab7fd",
+        name: "webhook_support",
+        description: "webhook_support description",
+        agent_id: "sales",
+        url: "http://isdev:8061/api/services/app/Botava/CustomerDidntGetTheAnswerWebhook",
+        headers: [],
+        is_active: true,
+    },
+    {
+        _id: "60b4638a09d1e242f96ab7fe",
+        name: "webhook_support",
+        description: "webhook_support description",
+        agent_id: "store",
+        url: "http://isdev:8061/api/services/app/Botava/CustomerDidntGetTheAnswerWebhook",
+        headers: [],
+        is_active: true,
+    },
+    {
+        _id: "60b4639d09d1e242f96ab7ff",
+        name: "webhook_support",
+        description: "webhook_support description",
+        agent_id: "fin",
+        url: "http://isdev:8061/api/services/app/Botava/CustomerDidntGetTheAnswerWebhook",
+        headers: [],
+        is_active: true,
+    },
+];
